@@ -22,3 +22,8 @@ At the heart of every computer processor is an Arithmetic Logic Unit (ALU). This
 # Register File
 
 ![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/register_file.png?raw=true)
+
+    8×8 register file. (register0 - register7)
+
+
+# Integration & Control
