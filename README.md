@@ -12,3 +12,13 @@ simple 8-bit single-cycle processor which includes an ALU, a register file and c
 # ALU
 
 ![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/ALU.png?raw=true)
+
+At the heart of every computer processor is an Arithmetic Logic Unit (ALU). This is the part of the computer which performs arithmetic and logic operations on numbers, e.g. addition, subtraction, etc. 
+
+    instructions add, sub, and, or, mov, and loadi , j , beq
+    
+![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/ALU_table.png?raw=true)
+
+# Register File
+
+![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/register_file.png?raw=true)
