@@ -1,0 +1,9 @@
+Compile : 
+iverilog testbench.v
+
+Run :
+vvp testbench.v.out
+
+Gtkwave :
+gtkwave wavedata.vcd
+
