@@ -27,3 +27,8 @@ At the heart of every computer processor is an Arithmetic Logic Unit (ALU). This
 
 
 # Integration & Control
+
+![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/CPU.png?raw=true)
+
+
+![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/timing.png?raw=true)
