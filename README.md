@@ -1,6 +1,7 @@
 # CPU-8-bit-FPGA-
 
-simple 8-bit single-cycle processor which includes an ALU, a register file and control logic, using Verilog HDL.
+8 bit CPU single thread pipeline processor. Which include ALU, ram, instruction memory, data memory and ext. This CPU is base on Harvard architecture. This implementation was improved using pipelining mechanisms and it gained around 4-time performance improvement. In addition to that direct-mapped cache was introduced to Instruction and data memories. which were implemented as a memory hierarchy to achieve high-performance in-memory access. Also, a custom assembler was implemented to support programming the CPU. This CPU is able to execute most algorithms.
+
 
 ![alt text](https://github.com/praveendhananjaya/CPU-8-bit-FPGA-/blob/main/doc/instructions.png?raw=true)
 
